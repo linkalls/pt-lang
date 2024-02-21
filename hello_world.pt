@@ -1,0 +1,20 @@
+表示 "hello world"
+h "hello world"
+"hello world"
+"hello world" を表示
+h(足す(2, 3))  # 2 + 3
+h(引く(5, 2))  # 5 - 2
+表示(かける(4, 6))  # 4 * 6
+表示(割る(8, 2))  # 8 / 2
+表示(割る(8, 3))  # 8 / 3
+表示(割る(8, 3.0))  # 8 / 3.0
+(2+3) を表示
+h(2+3*22)
+name = "world"
+h name
+aa = "hello"
+h aa+name
+h name
+h aa
+h "hello"+name
+h q

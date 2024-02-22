@@ -1,6 +1,7 @@
 # PTLang
 
 PTLangは、独自のプログラミング言語を解釈するRuby製のインタープリタです。
+プログラミング超初心者向けの言語です。
 
 ## 特徴
 
@@ -16,9 +17,11 @@ PTLangは、独自のプログラミング言語を解釈するRuby製のイン�
 
 ```bash
 ruby ptlang_interpreter.rb your_file.pt
-
+```
 例
 以下は、PTLangで"hello world"を表示する例です。
+```
 name = "world"
 h "hello " + name
+```
 このコードを実行すると、"hello world"と表示されます。
